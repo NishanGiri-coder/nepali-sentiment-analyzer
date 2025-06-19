@@ -43,3 +43,10 @@ Enter Nepali text into the input box
   Flask
   scikit-learn
   joblib
+  
+  <p align="center">
+  <img src="assets/sample1.png" width="30%" />
+  <img src="assets/sample2.png" width="30%" />
+  <img src="assets/sample3.png" width="30%" />
+</p>
+

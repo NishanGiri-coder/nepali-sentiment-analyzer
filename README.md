@@ -16,14 +16,19 @@ The model uses TF-IDF vectorization and Logistic Regression, trained on Nepali c
 
 ## Project Structure
 
-├── app.py # Flask application code
-├── requirements.txt # Python dependencies
-├── README.md # documentation
-├── model_files/ # Trained model and vectorizer files
-│ ├── sentiment_model.pkl
-│ └── tfidf_vectorizer.pkl
-├── templates/ # HTML files for frontend
-│ └── index.html
+nepali-sentiment-analyzer/
+│
+├── app.py                  → Main Python file that runs the web app
+├── requirements.txt        → List of Python packages needed to run the app
+├── README.md               → Info and guide about the project
+│
+├── model_files/            → Folder that stores trained machine learning files
+│   ├── sentiment_model.pkl         → The trained model file
+│   └── tfidf_vectorizer.pkl        → The text converter (TF-IDF) used by the model
+│
+├── templates/              → Folder that stores HTML files
+│   └── index.html                  → The webpage where users input text
+
 
 
 * Create a virtual environment and activate it:

@@ -44,6 +44,8 @@ Enter Nepali text into the input box
   scikit-learn
   joblib
   
+  ## 📸 Sample Screenshots
+  
   <p align="center">
   <img src="assets/sample1.png" width="30%" />
   <img src="assets/sample2.png" width="30%" />
